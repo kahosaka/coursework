@@ -1,2 +1,2 @@
-# coursework
-Collection of coursework at the University of Oregon.
+# Coursework
+Collection of undergraduate coursework at the University of Oregon.
