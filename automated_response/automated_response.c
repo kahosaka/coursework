@@ -1,13 +1,12 @@
 /*
   Kiana Hosaka
-
+  Description: Implementation of an automated bot that responds to user inputs. User inputs are not case sensitive. The automated bot will respond appropriately to the user input.
 */
 
 #include <stdio.h>
 #include <string.h>
 #include <stdint.h>
 #include <ctype.h>
-
 
 // Number of response our robot can make
 #define NUM_RESPONSE 5
